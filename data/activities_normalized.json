@@ -49918,5 +49918,31 @@
     "start_date_local": "2026-05-25T17:45:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 10834.6,
+    "elevation_gain": 87.0,
+    "id": "18665794623",
+    "moving_time": 3552.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-26T19:04:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 16559.4,
+    "elevation_gain": 110.0,
+    "id": "18674830989",
+    "moving_time": 4085.0,
+    "name": "2*5k downwind/upwind tempo (17:35/19:47)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T12:43:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
