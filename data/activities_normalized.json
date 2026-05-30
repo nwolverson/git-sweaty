@@ -49964,10 +49964,23 @@
     "elevation_gain": 67.0,
     "id": "18705254344",
     "moving_time": 2899.0,
-    "name": "Evening Run",
+    "name": "Feeling better than I thought",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-05-29T18:04:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 50330.4,
+    "elevation_gain": 254.0,
+    "id": "18714715880",
+    "moving_time": 14155.0,
+    "name": "Fast start 50",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T08:58:52Z",
     "type": "Run",
     "year": 2026
   }
