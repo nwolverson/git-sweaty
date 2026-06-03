@@ -50035,5 +50035,31 @@
     "start_date_local": "2026-06-02T12:25:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 26517.9,
+    "elevation_gain": 171.0,
+    "id": "18760600660",
+    "moving_time": 8774.0,
+    "name": "2*7:30, 12*400",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T17:18:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 11161.9,
+    "elevation_gain": 54.0,
+    "id": "18770669503",
+    "moving_time": 3480.0,
+    "name": "Heavy legs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T13:03:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
