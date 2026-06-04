@@ -50061,5 +50061,31 @@
     "start_date_local": "2026-06-03T13:03:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 10819.9,
+    "elevation_gain": 46.0,
+    "id": "18774258046",
+    "moving_time": 3156.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-03T18:58:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 10913.0,
+    "elevation_gain": 54.0,
+    "id": "18782906815",
+    "moving_time": 2823.0,
+    "name": "Angry wet triangles",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T12:29:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
