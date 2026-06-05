@@ -50087,5 +50087,31 @@
     "start_date_local": "2026-06-04T12:29:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 23044.9,
+    "elevation_gain": 195.0,
+    "id": "18788390844",
+    "moving_time": 6000.0,
+    "name": "3k/3k/2k T off 1k float",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T18:34:53Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 10842.4,
+    "elevation_gain": 69.0,
+    "id": "18796282153",
+    "moving_time": 3450.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-05T12:41:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
