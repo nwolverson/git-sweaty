@@ -50113,5 +50113,18 @@
     "start_date_local": "2026-06-05T12:41:38Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 19693.3,
+    "elevation_gain": 153.0,
+    "id": "18807181274",
+    "moving_time": 6008.0,
+    "name": "parkrun easy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T09:00:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
