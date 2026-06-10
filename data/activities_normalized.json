@@ -50165,5 +50165,44 @@
     "start_date_local": "2026-06-09T12:27:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 18649.4,
+    "elevation_gain": 102.0,
+    "id": "18854762803",
+    "moving_time": 5622.0,
+    "name": "Saughton @ Meadowbank: (1600, 1200, 800, 400)*2, 1600 tt",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T17:24:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 10791.0,
+    "elevation_gain": 69.0,
+    "id": "18864322040",
+    "moving_time": 3369.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T12:36:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 10815.1,
+    "elevation_gain": 66.0,
+    "id": "18868214794",
+    "moving_time": 3500.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T17:47:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
