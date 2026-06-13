@@ -50230,5 +50230,18 @@
     "start_date_local": "2026-06-11T12:19:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 8622.0,
+    "elevation_gain": 234.0,
+    "id": "18893564965",
+    "moving_time": 2976.0,
+    "name": "Joyful flowy trails",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-12T17:25:29Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
