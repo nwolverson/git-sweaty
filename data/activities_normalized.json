@@ -50243,5 +50243,18 @@
     "start_date_local": "2026-06-12T17:25:29Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-13",
+    "distance": 67335.0,
+    "elevation_gain": 3765.0,
+    "id": "18908239400",
+    "moving_time": 49854.0,
+    "name": "Braemar to Coylumbridge via 5 assorted Munros",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-13T06:10:10Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
