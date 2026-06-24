@@ -50438,5 +50438,31 @@
     "start_date_local": "2026-06-23T12:21:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 15401.1,
+    "elevation_gain": 93.0,
+    "id": "19039510118",
+    "moving_time": 5219.0,
+    "name": "10*800 -ve splits \ud83c\udf1e\ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-23T17:41:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 10679.2,
+    "elevation_gain": 57.0,
+    "id": "19046106276",
+    "moving_time": 3680.0,
+    "name": "Already warm",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-24T08:06:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
