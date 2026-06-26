@@ -50490,5 +50490,31 @@
     "start_date_local": "2026-06-25T08:03:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 967.3,
+    "elevation_gain": 19.0,
+    "id": "19064321830",
+    "moving_time": 196.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T15:05:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 15277.5,
+    "elevation_gain": 276.0,
+    "id": "19064322347",
+    "moving_time": 7206.0,
+    "name": "Peering into Strathconon",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-25T15:54:02Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
