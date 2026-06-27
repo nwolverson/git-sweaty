@@ -27201,6 +27201,69 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 8,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 7,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 8,
+      "subtype": "TrailRun",
+      "type": "TrailRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 15,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 14,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52776,6 +52839,27 @@
           "distance": 5679.7,
           "elevation_gain": 103.0,
           "moving_time": 1126.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19076247697",
+            "19076252698"
+          ],
+          "count": 2,
+          "distance": 69987.0,
+          "elevation_gain": 818.0,
+          "moving_time": 12467.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19085178193",
+            "19087784899",
+            "19087784951"
+          ],
+          "count": 3,
+          "distance": 34300.2,
+          "elevation_gain": 246.0,
+          "moving_time": 5323.0
         }
       },
       "Run": {
@@ -54252,6 +54336,24 @@
           "distance": 15277.5,
           "elevation_gain": 276.0,
           "moving_time": 7206.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19076253486"
+          ],
+          "count": 1,
+          "distance": 22402.5,
+          "elevation_gain": 2109.0,
+          "moving_time": 18482.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19085179169"
+          ],
+          "count": 1,
+          "distance": 18161.8,
+          "elevation_gain": 1484.0,
+          "moving_time": 12537.0
         }
       },
       "VirtualRide": {
@@ -54347,11 +54449,21 @@
           "distance": 5294.9,
           "elevation_gain": 40.0,
           "moving_time": 3729.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19087784932",
+            "19087785172"
+          ],
+          "count": 2,
+          "distance": 4779.3,
+          "elevation_gain": 95.0,
+          "moving_time": 3752.0
         }
       }
     }
   },
-  "generated_at": "2026-06-26T17:03:54.269731+00:00",
+  "generated_at": "2026-06-27T16:08:58.304869+00:00",
   "other_bucket": "OtherSports",
   "repo": "nwolverson/git-sweaty",
   "source": "strava",
