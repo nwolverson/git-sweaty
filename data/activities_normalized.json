@@ -50633,5 +50633,57 @@
     "start_date_local": "2026-06-27T15:38:01Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 11084.0,
+    "elevation_gain": 400.0,
+    "id": "19103343756",
+    "moving_time": 4283.0,
+    "name": "Ride in",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-28T08:41:00Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 15764.1,
+    "elevation_gain": 169.0,
+    "id": "19103348071",
+    "moving_time": 4782.0,
+    "name": "Ride out",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T19:34:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 29592.9,
+    "elevation_gain": 3132.0,
+    "id": "19103354104",
+    "moving_time": 25789.0,
+    "name": "Fisherfield 6",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-06-28T10:02:53Z",
+    "type": "TrailRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 17679.6,
+    "elevation_gain": 259.0,
+    "id": "19106005243",
+    "moving_time": 3026.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-29T05:10:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
