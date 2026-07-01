@@ -50698,5 +50698,31 @@
     "start_date_local": "2026-06-30T13:03:42Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 16155.0,
+    "elevation_gain": 76.0,
+    "id": "19127849028",
+    "moving_time": 5427.0,
+    "name": "Track - 800, 2*800 progressive, 1600, 2*1600 progressive, 1600",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-30T17:46:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-01",
+    "distance": 6734.9,
+    "elevation_gain": 22.0,
+    "id": "19136612779",
+    "moving_time": 2270.0,
+    "name": "Jogging wounded",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-01T12:36:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
