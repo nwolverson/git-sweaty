@@ -50841,5 +50841,18 @@
     "start_date_local": "2026-07-05T11:09:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 37807.8,
+    "elevation_gain": 1287.0,
+    "id": "19191912239",
+    "moving_time": 14556.0,
+    "name": "Peebles to Galashiels via CBDR/SUW",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-07-05T13:18:35Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
