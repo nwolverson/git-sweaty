@@ -27418,6 +27418,34 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 11,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-11",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-14",
+      "hour": 12,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 12,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53041,6 +53069,16 @@
           "distance": 17679.6,
           "elevation_gain": 259.0,
           "moving_time": 3026.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "19322339856",
+            "19322340063"
+          ],
+          "count": 2,
+          "distance": 8622.7,
+          "elevation_gain": 89.0,
+          "moving_time": 1637.0
         }
       },
       "Run": {
@@ -54483,6 +54521,15 @@
           "distance": 11552.7,
           "elevation_gain": 78.0,
           "moving_time": 3962.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19322347959"
+          ],
+          "count": 1,
+          "distance": 2203.6,
+          "elevation_gain": 23.0,
+          "moving_time": 816.0
         }
       },
       "TrailRun": {
@@ -54763,11 +54810,20 @@
           "distance": 4114.3,
           "elevation_gain": 31.0,
           "moving_time": 2861.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "19322348012"
+          ],
+          "count": 1,
+          "distance": 3870.0,
+          "elevation_gain": 30.0,
+          "moving_time": 2456.0
         }
       }
     }
   },
-  "generated_at": "2026-07-14T16:19:49.567637+00:00",
+  "generated_at": "2026-07-15T16:27:12.835856+00:00",
   "other_bucket": "OtherSports",
   "repo": "nwolverson/git-sweaty",
   "source": "strava",
