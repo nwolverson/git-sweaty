@@ -51231,5 +51231,18 @@
     "start_date_local": "2026-08-05T13:27:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 179315.0,
+    "elevation_gain": 4429.0,
+    "id": "19676811767",
+    "moving_time": 109155.0,
+    "name": "RAS DNF",
+    "raw_activity_type": "Run",
+    "raw_type": "TrailRun",
+    "start_date_local": "2026-08-08T06:00:47Z",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
