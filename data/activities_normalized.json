@@ -51244,5 +51244,31 @@
     "start_date_local": "2026-08-08T06:00:47Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 21368.0,
+    "elevation_gain": 164.0,
+    "id": "19755963784",
+    "moving_time": 3080.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T17:01:52Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 5904.2,
+    "elevation_gain": 39.0,
+    "id": "19765628014",
+    "moving_time": 3660.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-16T11:29:41Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
