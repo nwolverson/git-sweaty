@@ -51296,5 +51296,31 @@
     "start_date_local": "2026-08-18T12:58:31Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 4636.0,
+    "elevation_gain": 36.0,
+    "id": "19798771552",
+    "moving_time": 2623.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-18T19:19:06Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 10829.9,
+    "elevation_gain": 53.0,
+    "id": "19808629705",
+    "moving_time": 3560.0,
+    "name": "Feeling unfit",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-19T12:50:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
