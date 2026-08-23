@@ -51348,5 +51348,44 @@
     "start_date_local": "2026-08-20T13:01:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 10880.8,
+    "elevation_gain": 48.0,
+    "id": "19856474487",
+    "moving_time": 3449.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-21T13:41:47Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 19257.4,
+    "elevation_gain": 115.0,
+    "id": "19856477750",
+    "moving_time": 5650.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-22T11:12:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 10830.3,
+    "elevation_gain": 58.0,
+    "id": "19862949506",
+    "moving_time": 2955.0,
+    "name": "Youngest and fittest I've been all week",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-23T11:09:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
