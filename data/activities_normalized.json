@@ -51426,5 +51426,70 @@
     "start_date_local": "2026-08-26T13:06:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 5142.2,
+    "elevation_gain": 50.0,
+    "id": "19910957760",
+    "moving_time": 1677.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T17:22:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 2196.8,
+    "elevation_gain": 8.0,
+    "id": "19911402291",
+    "moving_time": 667.0,
+    "name": "Warmup",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T18:07:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 4933.9,
+    "elevation_gain": 39.0,
+    "id": "19912003884",
+    "moving_time": 1118.0,
+    "name": "Blast 5k @ Fettes",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T18:31:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 5052.5,
+    "elevation_gain": 16.0,
+    "id": "19912643644",
+    "moving_time": 1730.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-26T19:05:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 6731.5,
+    "elevation_gain": 30.0,
+    "id": "19921807805",
+    "moving_time": 2192.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-27T12:43:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
