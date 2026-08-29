@@ -51504,5 +51504,18 @@
     "start_date_local": "2026-08-28T13:22:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 85530.2,
+    "elevation_gain": 2162.0,
+    "id": "19950997805",
+    "moving_time": 33816.0,
+    "name": "Highland Fling",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-29T06:00:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
