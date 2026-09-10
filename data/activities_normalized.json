@@ -51543,5 +51543,31 @@
     "start_date_local": "2026-09-07T12:11:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 5379.3,
+    "elevation_gain": 37.0,
+    "id": "20117430853",
+    "moving_time": 1705.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-08T17:43:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 21351.5,
+    "elevation_gain": 164.0,
+    "id": "20117430758",
+    "moving_time": 2905.0,
+    "name": "Looking for Bike legs",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-10T13:06:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
