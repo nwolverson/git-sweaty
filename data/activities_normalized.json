@@ -51582,5 +51582,18 @@
     "start_date_local": "2026-09-12T17:11:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 8380.5,
+    "elevation_gain": 68.0,
+    "id": "20229426708",
+    "moving_time": 1217.0,
+    "name": "Sigh",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T13:04:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
