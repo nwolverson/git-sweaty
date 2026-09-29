@@ -51699,5 +51699,44 @@
     "start_date_local": "2026-09-28T12:50:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 9938.2,
+    "elevation_gain": 80.0,
+    "id": "20380895650",
+    "moving_time": 1719.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T17:15:48Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 5271.7,
+    "elevation_gain": 19.0,
+    "id": "20382525058",
+    "moving_time": 1285.0,
+    "name": "New track, half session",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-29T17:50:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 9588.4,
+    "elevation_gain": 29.0,
+    "id": "20382533018",
+    "moving_time": 1531.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T18:46:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
