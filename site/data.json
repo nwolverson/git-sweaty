@@ -27880,6 +27880,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 17,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -55352,6 +55359,15 @@
           "distance": 5709.3,
           "elevation_gain": 28.0,
           "moving_time": 1872.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20452115018"
+          ],
+          "count": 1,
+          "distance": 12076.6,
+          "elevation_gain": 424.0,
+          "moving_time": 4336.0
         }
       },
       "TrailRun": {
@@ -55735,7 +55751,7 @@
       }
     }
   },
-  "generated_at": "2026-10-03T18:36:05.869929+00:00",
+  "generated_at": "2026-10-04T18:34:44.177733+00:00",
   "other_bucket": "OtherSports",
   "repo": "nwolverson/git-sweaty",
   "source": "strava",
