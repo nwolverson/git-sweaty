@@ -51855,5 +51855,18 @@
     "start_date_local": "2026-10-07T12:59:53Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 22247.5,
+    "elevation_gain": 137.0,
+    "id": "20506990033",
+    "moving_time": 6484.0,
+    "name": "Thursday Tempo \ud83c\udf27\ufe0f - 2k/1k under/overs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-08T18:34:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
