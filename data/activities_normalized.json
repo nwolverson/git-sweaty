@@ -51985,5 +51985,31 @@
     "start_date_local": "2026-10-15T13:51:14Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 22059.2,
+    "elevation_gain": 173.0,
+    "id": "20600303363",
+    "moving_time": 6577.0,
+    "name": "Thursday Tempo - 5k (1k) 4k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T18:32:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 3693.4,
+    "elevation_gain": 79.0,
+    "id": "20610468504",
+    "moving_time": 1944.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-16T16:31:43Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
