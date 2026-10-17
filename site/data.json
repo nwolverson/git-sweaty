@@ -28006,6 +28006,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-10-17",
+      "hour": 11,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53368,6 +53375,15 @@
           "distance": 32144.1,
           "elevation_gain": 2846.0,
           "moving_time": 40928.0
+        },
+        "2026-10-17": {
+          "activity_ids": [
+            "20624268951"
+          ],
+          "count": 1,
+          "distance": 24882.3,
+          "elevation_gain": 1049.0,
+          "moving_time": 20611.0
         }
       },
       "Ride": {
@@ -56007,7 +56023,7 @@
       }
     }
   },
-  "generated_at": "2026-10-16T18:41:54.193916+00:00",
+  "generated_at": "2026-10-17T17:48:36.560679+00:00",
   "other_bucket": "OtherSports",
   "repo": "nwolverson/git-sweaty",
   "source": "strava",

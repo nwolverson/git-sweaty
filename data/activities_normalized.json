@@ -52011,5 +52011,18 @@
     "start_date_local": "2026-10-16T16:31:43Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 24882.3,
+    "elevation_gain": 1049.0,
+    "id": "20624268951",
+    "moving_time": 20611.0,
+    "name": "A' Ghlas-bheinn",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-17T11:28:59Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
