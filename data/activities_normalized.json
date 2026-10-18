@@ -52024,5 +52024,18 @@
     "start_date_local": "2026-10-17T11:28:59Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 29647.5,
+    "elevation_gain": 1628.0,
+    "id": "20638485786",
+    "moving_time": 29447.0,
+    "name": "Forcan ridge et al",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-10-18T07:36:22Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]
