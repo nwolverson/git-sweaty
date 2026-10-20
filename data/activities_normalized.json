@@ -52037,5 +52037,70 @@
     "start_date_local": "2026-10-18T07:36:22Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 9612.6,
+    "elevation_gain": 76.0,
+    "id": "20665312966",
+    "moving_time": 1676.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-20T17:21:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 1242.0,
+    "elevation_gain": 2.0,
+    "id": "20665320061",
+    "moving_time": 378.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T19:11:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 9566.0,
+    "elevation_gain": 32.0,
+    "id": "20665320071",
+    "moving_time": 1540.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-20T19:24:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 1601.7,
+    "elevation_gain": 2.0,
+    "id": "20665320073",
+    "moving_time": 326.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T19:01:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 9134.9,
+    "elevation_gain": 17.0,
+    "id": "20665320085",
+    "moving_time": 2891.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-20T17:57:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
