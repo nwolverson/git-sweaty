@@ -52128,5 +52128,31 @@
     "start_date_local": "2026-10-22T12:25:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 23846.3,
+    "elevation_gain": 147.0,
+    "id": "20692591556",
+    "moving_time": 6593.0,
+    "name": "Thursday tempo - alternating kms",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-22T18:32:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-23",
+    "distance": 10830.6,
+    "elevation_gain": 80.0,
+    "id": "20700210959",
+    "moving_time": 3436.0,
+    "name": "Refreshing",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-23T12:51:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
