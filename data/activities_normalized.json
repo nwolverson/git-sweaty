@@ -52154,5 +52154,18 @@
     "start_date_local": "2026-10-23T12:51:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 21370.9,
+    "elevation_gain": 126.0,
+    "id": "20711376975",
+    "moving_time": 5904.0,
+    "name": "Feeling good, bit z3",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-24T10:40:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
