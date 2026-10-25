@@ -52167,5 +52167,18 @@
     "start_date_local": "2026-10-24T10:40:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 10833.5,
+    "elevation_gain": 37.6,
+    "id": "20725355090",
+    "moving_time": 3347.0,
+    "name": "Turnaround is fairly noticeable",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-25T11:43:39Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
