@@ -52310,5 +52310,31 @@
     "start_date_local": "2026-10-29T12:36:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 24010.5,
+    "elevation_gain": 159.0,
+    "id": "20783568583",
+    "moving_time": 6764.0,
+    "name": "Thursday tempo - progression",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T18:30:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 10864.6,
+    "elevation_gain": 51.0,
+    "id": "20792168687",
+    "moving_time": 3633.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-30T13:44:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
