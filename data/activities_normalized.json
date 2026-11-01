@@ -52388,5 +52388,31 @@
     "start_date_local": "2026-10-31T15:27:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 3976.6,
+    "elevation_gain": 41.0,
+    "id": "20819901877",
+    "moving_time": 2450.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-31T17:01:53Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 17716.4,
+    "elevation_gain": 477.0,
+    "id": "20821438339",
+    "moving_time": 7530.0,
+    "name": "Last light",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-01T16:32:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
