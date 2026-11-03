@@ -52427,5 +52427,57 @@
     "start_date_local": "2026-11-02T12:10:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 9898.5,
+    "elevation_gain": 50.0,
+    "id": "20847537441",
+    "moving_time": 3443.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-02T17:44:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 9602.9,
+    "elevation_gain": 70.0,
+    "id": "20847537250",
+    "moving_time": 1723.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-03T17:08:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 9639.4,
+    "elevation_gain": 19.0,
+    "id": "20847544439",
+    "moving_time": 1786.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-03T19:14:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 12224.8,
+    "elevation_gain": 20.0,
+    "id": "20847544492",
+    "moving_time": 3830.0,
+    "name": "2+800 (2nd acceleration), 4*1600 (mid 2 accel)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-03T17:44:18Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
