@@ -52544,5 +52544,18 @@
     "start_date_local": "2026-11-07T16:35:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 31621.3,
+    "elevation_gain": 914.0,
+    "id": "20911837118",
+    "moving_time": 11639.0,
+    "name": "7 Hills",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T14:03:15Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
