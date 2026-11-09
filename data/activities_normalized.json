@@ -52557,5 +52557,18 @@
     "start_date_local": "2026-11-08T14:03:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 10813.8,
+    "elevation_gain": 54.0,
+    "id": "20920132393",
+    "moving_time": 2879.0,
+    "name": "Perfect conditions",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-09T12:40:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
