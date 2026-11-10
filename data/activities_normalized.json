@@ -52570,5 +52570,31 @@
     "start_date_local": "2026-11-09T12:40:06Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 10874.4,
+    "elevation_gain": 50.0,
+    "id": "20930106826",
+    "moving_time": 3643.0,
+    "name": "Easy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T07:45:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 9627.3,
+    "elevation_gain": 83.0,
+    "id": "20936019613",
+    "moving_time": 1735.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-10T17:09:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
