@@ -52596,5 +52596,83 @@
     "start_date_local": "2026-11-10T17:09:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 11036.6,
+    "elevation_gain": 30.0,
+    "id": "20938773025",
+    "moving_time": 1746.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-10T20:50:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 1635.9,
+    "elevation_gain": 2.0,
+    "id": "20938773037",
+    "moving_time": 479.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T19:08:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 6529.2,
+    "elevation_gain": 12.0,
+    "id": "20938773067",
+    "moving_time": 1913.0,
+    "name": "Warmup, 2*7:30",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T17:45:51Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 5323.3,
+    "elevation_gain": 11.0,
+    "id": "20938773093",
+    "moving_time": 1057.0,
+    "name": "12*400",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-10T18:33:09Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 10845.2,
+    "elevation_gain": 49.0,
+    "id": "20943474629",
+    "moving_time": 3643.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T07:49:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 11832.9,
+    "elevation_gain": 145.0,
+    "id": "20947523701",
+    "moving_time": 3710.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-11T13:29:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
