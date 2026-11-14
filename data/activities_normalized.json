@@ -52687,5 +52687,70 @@
     "start_date_local": "2026-11-12T13:00:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 1829.9,
+    "elevation_gain": 21.0,
+    "id": "20976701743",
+    "moving_time": 1138.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-13T20:48:03Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 4494.1,
+    "elevation_gain": 31.0,
+    "id": "20976701777",
+    "moving_time": 1425.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-13T19:09:36Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 1558.7,
+    "elevation_gain": 10.0,
+    "id": "20976701796",
+    "moving_time": 1001.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-13T18:40:44Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-13",
+    "distance": 5035.3,
+    "elevation_gain": 28.0,
+    "id": "20976701813",
+    "moving_time": 1015.0,
+    "name": "Stride - Friday Night Racing 5k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-13T19:50:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 20821.1,
+    "elevation_gain": 167.0,
+    "id": "20982178873",
+    "moving_time": 5770.0,
+    "name": "Porty parkrun (18:22)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T09:01:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
