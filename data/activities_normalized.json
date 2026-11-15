@@ -52752,5 +52752,31 @@
     "start_date_local": "2026-11-14T09:01:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 8949.1,
+    "elevation_gain": 84.0,
+    "id": "20989090253",
+    "moving_time": 3157.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-14T19:21:38Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-15",
+    "distance": 38743.6,
+    "elevation_gain": 203.0,
+    "id": "20998007224",
+    "moving_time": 10874.0,
+    "name": "Steady longy",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-15T10:50:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
