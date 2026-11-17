@@ -52804,5 +52804,44 @@
     "start_date_local": "2026-11-16T18:02:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 9827.8,
+    "elevation_gain": 79.0,
+    "id": "21024242822",
+    "moving_time": 1899.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T17:17:44Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 9720.7,
+    "elevation_gain": 16.0,
+    "id": "21026015439",
+    "moving_time": 1566.0,
+    "name": "Cold, dark, wet and very foxy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-17T19:14:41Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-17",
+    "distance": 9921.4,
+    "elevation_gain": 17.0,
+    "id": "21026015445",
+    "moving_time": 2097.0,
+    "name": "6*1600",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-17T18:13:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
