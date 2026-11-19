@@ -52869,5 +52869,31 @@
     "start_date_local": "2026-11-18T18:14:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 10854.7,
+    "elevation_gain": 83.0,
+    "id": "21046657768",
+    "moving_time": 3462.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-19T12:14:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 26547.7,
+    "elevation_gain": 169.0,
+    "id": "21051469330",
+    "moving_time": 7719.0,
+    "name": "Tempo Thursday  - 3k (1k) 3k (1k) 2k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-19T18:31:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
