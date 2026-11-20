@@ -52895,5 +52895,18 @@
     "start_date_local": "2026-11-19T18:31:14Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 12127.9,
+    "elevation_gain": 368.0,
+    "id": "21059162223",
+    "moving_time": 4655.0,
+    "name": "Easy AS - Heavy legs, light heart",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-20T13:01:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
