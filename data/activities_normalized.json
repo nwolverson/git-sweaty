@@ -52908,5 +52908,70 @@
     "start_date_local": "2026-11-20T13:01:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 13077.2,
+    "elevation_gain": 156.0,
+    "id": "21068287465",
+    "moving_time": 3748.0,
+    "name": "Holyrood parkrun - frosty",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-21T09:09:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 5959.9,
+    "elevation_gain": 144.0,
+    "id": "21072914884",
+    "moving_time": 2080.0,
+    "name": "Why is this uphill",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-21T13:36:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 7947.8,
+    "elevation_gain": 132.0,
+    "id": "21072922837",
+    "moving_time": 1830.0,
+    "name": "East District XC League 2 - Dundee",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-21T14:24:08Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 3227.1,
+    "elevation_gain": 60.0,
+    "id": "21073013542",
+    "moving_time": 1773.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-21T11:19:09Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 4045.4,
+    "elevation_gain": 38.0,
+    "id": "21074674079",
+    "moving_time": 2672.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-21T17:42:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
