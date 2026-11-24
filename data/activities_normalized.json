@@ -52986,5 +52986,31 @@
     "start_date_local": "2026-11-22T13:11:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 12093.2,
+    "elevation_gain": 374.0,
+    "id": "21095190068",
+    "moving_time": 4566.0,
+    "name": "Another glorious day on the Seat",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-23T12:40:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-23",
+    "distance": 9561.5,
+    "elevation_gain": 86.0,
+    "id": "21098327935",
+    "moving_time": 3124.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-23T17:47:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
