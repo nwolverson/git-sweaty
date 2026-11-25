@@ -53025,5 +53025,31 @@
     "start_date_local": "2026-11-24T17:15:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 10821.6,
+    "elevation_gain": 51.0,
+    "id": "21120642606",
+    "moving_time": 3206.0,
+    "name": "Runchy wubble",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-25T13:27:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-25",
+    "distance": 11621.7,
+    "elevation_gain": 160.0,
+    "id": "21120642656",
+    "moving_time": 3975.0,
+    "name": "Thankful for the lack of rain",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-25T07:56:22Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
