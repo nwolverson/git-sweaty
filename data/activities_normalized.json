@@ -53051,5 +53051,31 @@
     "start_date_local": "2026-11-25T07:56:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 12042.0,
+    "elevation_gain": 388.0,
+    "id": "21133369730",
+    "moving_time": 4186.0,
+    "name": "AS decent",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T12:39:27Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 24105.0,
+    "elevation_gain": 146.0,
+    "id": "21136617539",
+    "moving_time": 6553.0,
+    "name": "Thursday Tempo - 2k/1k under/overs",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T18:33:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
